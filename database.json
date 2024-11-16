@@ -1,0 +1,50 @@
+{
+  "customer": [
+    {
+      "name": "Tushar",
+      "branch": "CSE",
+      "email": "tushaargrove01131@gamil.com",
+      "phone": "91",
+      "smarks": "78",
+      "imarks": "88",
+      "address": "Bihar",
+      "id": "9699"
+    },
+    {
+      "name": "Rohit",
+      "branch": "lnct",
+      "email": "Rohit0409@gamil.com",
+      "phone": "91",
+      "smarks": "78",
+      "imarks": "88",
+      "address": "America",
+      "id": "9845"
+    },
+    {
+      "name": "hamid khan",
+      "branch": "CSE",
+      "email": "hamid@gmail.com",
+      "phone": "91",
+      "smarks": "78",
+      "imarks": "88",
+      "address": "Nawada",
+      "id": "9655"
+    },
+    {
+      "id": "7392",
+      "name": "parshat",
+      "age": "22",
+      "gender": "fmale",
+      "admit": "ori",
+      "status": "jfko"
+    },
+    {
+      "id": "79c9",
+      "name": "",
+      "age": "",
+      "gender": "",
+      "admit": "",
+      "status": ""
+    }
+  ]
+}
